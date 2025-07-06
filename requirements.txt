@@ -1,0 +1,5 @@
+openai-whisper
+vosk
+SpeechRecognition
+pydub
+googletrans==4.0.2
